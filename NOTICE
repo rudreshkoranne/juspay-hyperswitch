@@ -1,0 +1,11 @@
+hyperswitch
+
+Copyright 2022-2023 Juspay Technologies Private Limited
+
+This product includes software developed at
+Juspay Technologies Private Limited (https://hyperswitch.io/)
+
+
+
+
+wasm-pack build --target web --out-dir /home/user/Desktop/hyperswitch-control-center/public/hyperswitch/wasm --out-name euclid /home/user/Desktop/hyperswitch/crates/euclid_wasm -- --features dummy_connector
